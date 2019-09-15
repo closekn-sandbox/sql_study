@@ -1,5 +1,9 @@
 # SQL study
 
+## reference
+
+[SQL 第2版 ゼロからはじめるデータベース操作](https://www.amazon.co.jp/dp/4798144452/)
+
 ## needs
 
 - Docker for mac
