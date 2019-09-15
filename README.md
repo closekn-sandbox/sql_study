@@ -17,7 +17,7 @@
 - psql
 `docker-compose up -d pgsql_study`  
 - myql
-`docker-compose up -d mysql_study` 
+`docker-compose up -d mysql_study`  
 
 ## Connection
 

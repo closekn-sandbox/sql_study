@@ -1,2 +1,4 @@
 memo.txt
 .DS_Store
+/pgsql_db/
+/mysql_db/
